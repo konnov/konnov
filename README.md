@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- changing the future
 - :steam_locomotive: ~I am currently working on~:
+  - 🌟 runtime verification of Soroban smart contracts with [Solarkraft](https://github.com/freespek/solarkraft/)
+  - 💸 web3 security contests
   - :lollipop: ~improving usability of specification languages with [Quint](https://github.com/informalsystems/quint/)~
   - :carousel_horse: ~improving [Apalache](https://github.com/informalsystems/apalache/) for finding bugs in smart contracts, dApps, and [Cosmos protocols](https://cosmos.network/)~
 - :flashlight: You can find how to reach me on my [GH page](https://konnov.github.io/).
