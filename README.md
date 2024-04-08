@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :steam_locomotive: ~I am currently working on~:
+- :steam_locomotive: I am currently working on:
   - 🌟 runtime verification of Soroban smart contracts with [Solarkraft](https://github.com/freespek/solarkraft/)
   - 💸 web3 security contests
   - :lollipop: ~improving usability of specification languages with [Quint](https://github.com/informalsystems/quint/)~
