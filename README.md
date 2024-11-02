@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   - :cookie: specification and model checking of [ChonkyBFT](https://protocols-made-fun.com/consensus/matterlabs/quint/specification/modelchecking/2024/07/29/chonkybft.html)
   - :candy: specification and model checking of [ZKsync governance](https://protocols-made-fun.com/zksync/matterlabs/quint/specification/modelchecking/2024/09/12/zksync-governance.html)
   - :doughnut: [model checking of 3SF](https://github.com/freespek/ssf-mc)
-  - 💙 supporting [Apalache](https://github.com/apalache-mc/apalache/)
+  - 💙 maintaining and improving [Apalache](https://github.com/apalache-mc/apalache/)
   - 💸 [web3 security contests](https://konnov.phd/portfolio/audits/)
   - :lollipop: ~improving usability of specification languages with [Quint](https://github.com/informalsystems/quint/)~
   - :carousel_horse: ~improving [Apalache](https://github.com/informalsystems/apalache/) for finding bugs in smart contracts, dApps, and [Cosmos protocols](https://cosmos.network/)~
