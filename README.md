@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - :steam_locomotive: I am currently working on:
-  - [ ] ❓**redacted** for Matter Labs
   - [ ] 💸 [web3 security contests](https://konnov.phd/portfolio/audits/)
   - [ ] 💙 maintaining and improving [Apalache](https://github.com/apalache-mc/apalache/)
 - Recent past work:
+  - [x] ❓**redacted** for Matter Labs
   - [x] :cookie: specification and model checking of [ChonkyBFT](https://protocols-made-fun.com/consensus/matterlabs/quint/specification/modelchecking/2024/07/29/chonkybft.html) for Matter Labs
   - [x] :doughnut: [model checking of 3-slot finality for Ethereum](https://github.com/freespek/ssf-mc)
   - [x] 🌟 runtime verification of Soroban/Stellar smart contracts with [Solarkraft](https://konnov.phd/portfolio/solarkraft/)
