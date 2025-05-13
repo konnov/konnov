@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - :steam_locomotive: I am currently working on:
-  - [ ] 💸 [web3 security contests](https://konnov.phd/portfolio/audits/)
+  - [ ] 🍨 playing with [distributed algorithms in Lean](https://github.com/konnov/leanda/)
   - [ ] 💙 maintaining and improving [Apalache](https://github.com/apalache-mc/apalache/)
+  - [ ] 💸 [web3 security contests](https://konnov.phd/portfolio/audits/)
 - Recent past work:
   - [x] ❓**redacted** for Matter Labs
   - [x] :cookie: specification and model checking of [ChonkyBFT](https://protocols-made-fun.com/consensus/matterlabs/quint/specification/modelchecking/2024/07/29/chonkybft.html) for Matter Labs
