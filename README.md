@@ -27,6 +27,6 @@ Here are some ideas to get you started:
   - [x] :candy: specification and model checking of [ZKsync governance](https://protocols-made-fun.com/zksync/matterlabs/quint/specification/modelchecking/2024/09/12/zksync-governance.html)
   - [x] :lollipop: improving usability of specification languages with [Quint](https://github.com/informalsystems/quint/)
   - [x] :carousel_horse: improving [Apalache](https://github.com/informalsystems/apalache/) for finding bugs in smart contracts, dApps, and [Cosmos protocols](https://cosmos.network/)
-- :flashlight: You can find how to reach me on my [GH page](https://konnov.github.io/).
+- :flashlight: You can find how to reach me on my [konnov.phd](https://konnov.phd/).
 - :bulb: You can ask me about Quint, TLA<sup>+</sup>, and protocol specification.
 - 😄 Pronouns: he/him/his.
