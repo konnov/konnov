@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 
 - :steam_locomotive: I am currently working on:
-  - [ ] 🍨 playing with [distributed algorithms in Lean](https://github.com/konnov/leanda/)
-  - [ ] 💙 maintaining and improving [Apalache](https://github.com/apalache-mc/apalache/)
-  - [ ] 💸 [web3 security contests](https://konnov.phd/portfolio/audits/)
+  - [ ] 🍨 playing with proving correctness of [distributed algorithms in Lean](https://github.com/konnov/leanda/)
+  - [ ] 💙 maintaining and improving [Apalache](https://github.com/apalache-mc/apalache/) &mdash; symbolic model checker for TLA<sup>+</sup>
+  - [ ] 💸 [web3 security contests](https://konnov.phd/posts/service/)
 - Recent past work:
   - [x] ❓**redacted** for Matter Labs
-  - [x] :cookie: specification and model checking of [ChonkyBFT](https://protocols-made-fun.com/consensus/matterlabs/quint/specification/modelchecking/2024/07/29/chonkybft.html) for Matter Labs
-  - [x] :doughnut: [model checking of 3-slot finality for Ethereum](https://github.com/freespek/ssf-mc)
-  - [x] 🌟 runtime verification of Soroban/Stellar smart contracts with [Solarkraft](https://konnov.phd/portfolio/solarkraft/)
-  - [x] :candy: specification and model checking of [ZKsync governance](https://protocols-made-fun.com/zksync/matterlabs/quint/specification/modelchecking/2024/09/12/zksync-governance.html)
-  - [x] :lollipop: improving usability of specification languages with [Quint](https://github.com/informalsystems/quint/)
-  - [x] :carousel_horse: improving [Apalache](https://github.com/informalsystems/apalache/) for finding bugs in smart contracts, dApps, and [Cosmos protocols](https://cosmos.network/)
+  - [x] :cookie: specification and model checking of [ChonkyBFT](https://konnov.phd/posts/chonkybft-paper/) for Matter Labs
+  - [x] :doughnut: [model checking of 3-slot finality for Ethereum](https://konnov.phd/posts/3sf-mc-report/)
+  - [x] 🌟 runtime verification of Soroban/Stellar smart contracts with [Solarkraft](https://github.com/freespek/solarkraft/)
+  - [x] :candy: specification and model checking of [ZKsync governance](https://konnov.phd/posts/zksync-governance/)
+  - [x] :lollipop: improving usability of specification languages with [Quint](https://konnov.phd/posts/quint/)
+  - [x] :carousel_horse: improving [Apalache](https://konnov.phd/posts/apalache-moved/) for finding bugs in smart contracts, dApps, and [Cosmos protocols](https://cosmos.network/)
 - :flashlight: You can find how to reach me on my [konnov.phd](https://konnov.phd/).
 - :bulb: You can ask me about Quint, TLA<sup>+</sup>, and protocol specification.
 - 😄 Pronouns: he/him/his.
