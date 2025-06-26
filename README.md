@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - :steam_locomotive: I am currently working on:
+  - [ ] :shipit: **redacted** audit
   - [ ] 🍨 playing with proving correctness of [distributed algorithms in Lean](https://github.com/konnov/leanda/)
   - [ ] 💙 maintaining and improving [Apalache](https://github.com/apalache-mc/apalache/) &mdash; symbolic model checker for TLA<sup>+</sup>
   - [ ] 💸 [web3 security contests](https://konnov.phd/posts/service/)
