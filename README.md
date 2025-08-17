@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 - :steam_locomotive: I am currently working on:
-  - [ ] **redacted** protocol specification and verification with Quint 3
+  - [ ] **redacted 4** protocol specification and verification with Quint
   - [ ] 🍨 playing with proving correctness of [distributed algorithms in Lean](https://github.com/konnov/leanda/)
   - [ ] 💙 maintaining and improving [Apalache](https://github.com/apalache-mc/apalache/) &mdash; symbolic model checker for TLA<sup>+</sup>
   - [ ] 💸 [web3 security contests](https://konnov.phd/posts/service/)
 - Recent past work:
-  - [x] :shipit: **redacted** consensus spec audit 2
-  - [x] :shipit: **redacted** Solidity protocol audit 1
-  - [x] ❓**redacted** for Matter Labs
+  - [x] :shipit: **redacted 3** consensus spec audit
+  - [x] :shipit: **redacted 2** Solidity protocol audit
+  - [x] ❓**redacted 1** for Matter Labs
   - [x] :cookie: specification and model checking of [ChonkyBFT](https://konnov.phd/posts/chonkybft-paper/) for Matter Labs
   - [x] :doughnut: [model checking of 3-slot finality for Ethereum](https://konnov.phd/posts/3sf-mc-report/)
   - [x] 🌟 runtime verification of Soroban/Stellar smart contracts with [Solarkraft](https://github.com/freespek/solarkraft/)
