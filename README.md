@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [my website](https://konnov.phd)
 - :steam_locomotive: I am currently working on:
-  - [ ] **redacted 4** protocol specification and verification with [Quint][] and [Apalache][]
+  - [ ] 🔥 **redacted 4** protocol specification and verification with [Quint][] and [Apalache][]
   - [ ] 🍨 playing with proving correctness of [distributed algorithms in Lean](https://github.com/konnov/leanda/)
   - [ ] 💙 maintaining and improving [Apalache][] &mdash; symbolic model checker for TLA<sup>+</sup> and [Quint][]
   - [ ] 💸 [web3 security contests](https://konnov.phd/posts/service/)
