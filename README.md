@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [my website](https://konnov.phd)
 - :steam_locomotive: I am currently working on:
-  - [ ] :m: **redacted 5** TLA<sup>+</sup> spec of a consensus protocol
+  - [ ] 🧑‍🍳 **redacted 6** Cooking new bug finding tools
   - [ ] 🍨 playing with proving correctness of [distributed algorithms in Lean](https://github.com/konnov/leanda/)
   - [ ] 💙 maintaining and improving [Apalache][] &mdash; symbolic model checker for TLA<sup>+</sup> and [Quint][]
   - [ ] 💸 [web3 security contests](https://konnov.phd/posts/service/)
 - Recent past work:
+  - [x] :m: **redacted 5** TLA<sup>+</sup> spec of a consensus protocol
   - [x] 🔥 **redacted 4** protocol specification and verification with [Quint][] and [Apalache][]
   - [x] :shipit: **redacted 3** consensus spec audit
   - [x] :shipit: **redacted 2** Solidity protocol audit
