@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   - [ ] 💸 [web3 security contests](https://konnov.phd/posts/service/)
 - Recent past work:
   - [x] :m: **redacted 5** TLA<sup>+</sup> spec of a consensus protocol
-  - [x] 🔥 **redacted 4** protocol specification and verification with [Quint][] and [Apalache][]
+  - [x] 🔥 [protocol specification of Aztec Governance](https://protocols-made-fun.com/quint/2025/12/09/aztec-governance.html) and verification with [Quint][] and [Apalache][]
   - [x] :shipit: **redacted 3** consensus spec audit
-  - [x] :shipit: **redacted 2** Solidity protocol audit
+  - [x] :shipit: Solidity protocol audit for Aztec Labs
   - [x] ❓**redacted 1** for Matter Labs
   - [x] :cookie: specification and model checking of [ChonkyBFT](https://konnov.phd/posts/chonkybft-paper/) for Matter Labs
   - [x] :doughnut: [model checking of 3-slot finality for Ethereum](https://konnov.phd/posts/3sf-mc-report/)
