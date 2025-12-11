@@ -1,4 +1,6 @@
-### Hey 👋
+[![committers.top badge](https://user-badge.committers.top/austria_private/konnov.svg)](https://user-badge.committers.top/austria_private/konnov)
+
+### Hi 👋
 
 <!--
 **konnov/konnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
