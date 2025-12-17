@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [my website](https://konnov.phd)
 - :steam_locomotive: I am currently working on:
-  - [ ] 🧪 [Symbolic testing of TFTP](https://github.com/konnov/tftp-symbolic-testing)
   - [ ] 🧑‍🍳 **redacted 6** Cooking new bug finding tools
   - [ ] 💙 maintaining and improving [Apalache][] &mdash; symbolic model checker for [TLA<sup>+</sup>](https://github.com/tlaplus/tlaplus) and [Quint][]
   - [ ] 🍨 playing with proving correctness of [distributed algorithms in Lean](https://github.com/konnov/leanda/)
   - [ ] 💸 [web3 security contests](https://konnov.phd/posts/service/)
 - Recent past work:
+  - [x] 🧪 [Symbolic testing of TFTP](https://github.com/konnov/tftp-symbolic-testing), see the [blog post](https://protocols-made-fun.com/tlaplus/2025/12/15/tftp-symbolic-testing.html)
   - [x] :m: **redacted 5** TLA<sup>+</sup> spec of a consensus protocol
   - [x] 🔥 [protocol specification of Aztec Governance](https://protocols-made-fun.com/quint/2025/12/09/aztec-governance.html) and verification with [Quint][] and [Apalache][]
   - [x] :shipit: **redacted 3** consensus spec audit
