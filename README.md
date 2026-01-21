@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [my website](https://konnov.phd)
 - :steam_locomotive: I am currently working on:
-  - [ ] 🧑‍🍳 **redacted 6** Cooking new bug finding tools
-  - [ ] 💙 maintaining and improving [Apalache][] &mdash; symbolic model checker for [TLA<sup>+</sup>](https://github.com/tlaplus/tlaplus) and [Quint][]
+  - [ ] 🧑‍🍳 **redacted 6** Cooking new specification and testing tools (think of [TLA<sup>+</sup>][] and [Quint][]). DM me to learn more
+  - [ ] 💙 maintaining and improving [Apalache][] &mdash; symbolic model checker for [TLA<sup>+</sup>][] and [Quint][]
   - [ ] 🍨 playing with proving correctness of [distributed algorithms in Lean](https://github.com/konnov/leanda/)
   - [ ] 💸 [web3 security contests](https://konnov.phd/posts/service/)
 - Recent past work:
@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 
 [Apalache]: https://github.com/apalache-mc/apalache/
 [Quint]: https://github.com/informalsystems/quint
+[TLA<sup>+</sup>]: https://github.com/tlaplus/tlaplus
